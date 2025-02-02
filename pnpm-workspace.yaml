@@ -21,7 +21,7 @@ catalog:
   '@types/chroma-js': ^3.1.1
   '@types/fs-extra': ^11.0.4
   '@types/markdown-it': ^14.1.2
-  '@types/node': ^22.12.0
+  '@types/node': ^22.13.0
   '@una-ui/content': ^0.0.40
   '@unocss/core': ^65.4.3
   '@unocss/eslint-config': ^65.4.3
