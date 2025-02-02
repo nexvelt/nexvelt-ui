@@ -11,7 +11,7 @@ catalog:
   '@iconify-json/lucide': ^1.2.25
   '@iconify-json/radix-icons': ^1.2.2
   '@iconify-json/tabler': ^1.2.15
-  '@iconify/json': ^2.2.301
+  '@iconify/json': ^2.2.302
   '@nuxt/devtools': ^1.7.0
   '@nuxt/kit': ^3.15.4
   '@nuxt/module-builder': ^0.8.4
